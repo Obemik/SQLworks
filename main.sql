@@ -71,7 +71,7 @@ values
 ('group c', 2, 4);
 go
 
-select financing, name, id
+select id, financing, name
 from departments;
 go
 
